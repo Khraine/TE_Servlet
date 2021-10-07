@@ -1,9 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 25 ago. de 2021, 10:11:19
-    Author     : Randall
---%>
-
+<!--PARTICIPACION DEL 24/08/2021-->
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
